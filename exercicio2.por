@@ -6,7 +6,7 @@ programa
 	funcao inicio()
 	
 	{
-		inteiro idade, totalM, totalA
+		real idade, totalM, totalA
 		
 		
 		escreva("digite sua idade em dias \n")
