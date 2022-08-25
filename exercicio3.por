@@ -31,22 +31,13 @@ programa
 		escreva("digite o tempo em segundos: \n")
 		leia(seg)
 
-
-		
-
 		totalH= seg/3600
 		totalM= (seg%3600)/60
 		totalSeg=(seg%3600)%60
-
-
-
-
-
 		
-		
-         escreva("\nHora:",totalH)
-         escreva("\nMinuto:", totalM)
-	    escreva("\nSegundo:", totalSeg)		
+		 escreva("\nHora:",totalH)
+		 escreva("\nMinuto:", totalM)
+		 escreva("\nSegundo:", totalSeg)		
 		
 	}
 }
