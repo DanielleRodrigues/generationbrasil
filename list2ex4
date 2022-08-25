@@ -1,0 +1,34 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro numero
+	
+		escreva("Digite um numero")
+		leia (numero)
+
+         se (numero % 2 == 1)
+         {
+         	 escreva ("Numero é impar")
+         	 
+         	}
+         senao 
+         {
+         	escreva ("\nNumero é par")
+         	
+         	}
+
+         	 se (numero > 0)
+         {
+         	 escreva ("\nNumero é positivo")
+         	 
+         	}
+         senao 
+         {
+         	escreva ("\nNumero é negativo")
+         	
+         	}
+		
+	}
+}
