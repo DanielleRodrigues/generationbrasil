@@ -1,0 +1,32 @@
+// 
+
+
+programa
+{
+	
+	funcao inicio()
+	{
+		real p, ex=0.0, m=0.0
+
+		escreva("Digite o peso\n")
+		leia(p)
+
+		se (p>50)
+
+			{
+				ex=p-50
+				m=ex*4
+				escreva ("Excesso=\n", ex)
+                    escreva ("\nMulta=\n", m)
+			}
+          senao
+          {
+           escreva ("Excesso:\n", ex)
+           escreva ("Multa:\n", m)
+           
+          }	
+		
+	}
+}
+
+
