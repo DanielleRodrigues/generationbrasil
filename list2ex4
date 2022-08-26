@@ -11,25 +11,22 @@ programa
 		escreva("Digite um numero")
 		leia (numero)
 
-         se (numero % 2 == 1)
+         se (numero % 2 == 1 e numero >=0)
          {
-         	 escreva ("Numero é impar")
-         	 
-         	}
-         senao 
-         {
-         	escreva ("\nNumero é par")
-         	
+         	 escreva ("Numero é impar e positivo")
+         	} 
+         	senao se (numero % 2 == 1 e numero <1){
+         	escreva ("\nNumero é impar e negativo")
          	}
 
-         	 se (numero > 0)
+         	 senao se  (numero % 2 == 0 e numero >=0)
          {
-         	 escreva ("\nNumero é positivo")
+         	 escreva ("\nNumero é par e positivo")
          	 
          	}
          senao 
          {
-         	escreva ("\nNumero é negativo")
+         	escreva ("\nNumero par e negativo")
          	
          	}
 		
