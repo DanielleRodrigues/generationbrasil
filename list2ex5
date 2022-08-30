@@ -18,13 +18,13 @@ programa
 			escreva("índice de poluição aceitável")
 		}
 
-		senao se (indp>= 0.26 e indp <= 0.30)
+		senao se (indp <= 0.30)
 		{
 			escreva("1º grupo intimado suspender suas atividades")
 			
 		}
 
-		senao se (indp>=0.31 e indp<=0.4)
+		senao se (indp<=0.4)
 		{
 			escreva("2º grupo intimado suspender suas atividades")
 		}
@@ -32,9 +32,5 @@ programa
 		{
 			escreva ("supenda a atividade")
 		}
-
-		
-
-		
 	}
 }
