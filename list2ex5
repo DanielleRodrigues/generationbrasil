@@ -13,7 +13,7 @@ programa
 		escreva("Digite o indice de poluição: ")
 		leia (indp)
 
-		se (indp>=0.05 e indp<=0.25 )
+		se (indp<=0.25 )
 		{
 			escreva("índice de poluição aceitável")
 		}
