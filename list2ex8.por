@@ -12,7 +12,6 @@ programa
 		
 		{
 			escreva("O número é maior que 100 ", n)
-			
 		}
 		senao
 		{
