@@ -26,7 +26,7 @@ programa
 
 		senao se (indp<=0.4)
 		{
-			escreva("2º grupo intimado suspender suas atividades")
+			escreva("1º e 2º grupo intimado suspender suas atividades")
 		}
 		senao 
 		{
