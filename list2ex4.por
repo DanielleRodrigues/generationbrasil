@@ -26,5 +26,5 @@ programa
          {
          	escreva ("\nNumero par e negativo")	
          }
-	}
+      }
 }
