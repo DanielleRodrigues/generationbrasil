@@ -16,7 +16,7 @@ programa
 			num=num-1
 			
 		}
-		enquanto (num>=0)
+		enquanto (num=0)
 
 		escreva ("=", soma)
 	}
