@@ -1,5 +1,4 @@
 <h1 align="left" id="title">Atividade – JavaScript 💻 </h1>
-<br>
 <h3>ATIVIDADE 1</h3>
  Defina o que seria uma linguagem de programação e descreva as principais características?
 <br>
