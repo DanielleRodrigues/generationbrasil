@@ -7,7 +7,7 @@ Defina o que seria uma linguagem de programação e descreva as principais carac
 <h3>ATIVIDADE 2</h3>
 Descreva as principais características da linguagem javaScript.
  * JS não é fortemente tipado; 
-  * Foi criada para dar dinamismo nas páginas web;
+ * Foi criada para dar dinamismo nas páginas web;
  *  Roda em muito ambientes.
 <br>
 <h3>ATIVIDADE 3</h3>
