@@ -13,9 +13,9 @@ Descreva as principais características da linguagem javaScript.
 <h3>ATIVIDADE 3</h3>
 Quais ambientes o javaScript pode ser executado?
   * Em tudo que usa a V8 engine;  
- *  Navegadores;
-  * Server side/client side;
-   * Sistemas feitos em Eletron;
+ * Navegadores;
+ * Server side/client side;
+ * Sistemas feitos em Eletron;
  *  Smartphones (react native, ionic, etc).
 <br>
 <h3>ATIVIDADE 4</h3>
