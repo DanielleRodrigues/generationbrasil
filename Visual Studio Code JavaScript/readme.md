@@ -1,9 +1,9 @@
 <h1 align="left" id="title">Atividade – JavaScript 💻 </h1>
 <br>
 <h3>ATIVIDADE 1</h3>
-Defina o que seria uma linguagem de programação e descreva as principais características?
+ Defina o que seria uma linguagem de programação e descreva as principais características?
 <br>
- Linguagem utilizada pelo desenvolvedor para criação de programas de programas interpretada/compilada pelo computador.
+  Linguagem utilizada pelo desenvolvedor para criação de programas de programas interpretada/compilada pelo computador.
 <br>
 <h3>ATIVIDADE 2</h3>
 Descreva as principais características da linguagem javaScript.
@@ -30,7 +30,7 @@ Quais ambientes o javaScript pode ser executado?
 <h3>ATIVIDADE 4</h3>
 Quais são os motivos da popularidade do javaScript na comunidade de desenvolvimento?
 <br>
-   Não há como desenvolver na web sem mexer com js, além que a linguagem tem uma extensa lista de bibliotecas e frameworks.
+  Não há como desenvolver na web sem mexer com js, além que a linguagem tem uma extensa lista de bibliotecas e frameworks.
 <br>
 <h3>ATIVIDADE 5</h3>
 Por que persistência e atenção aos detalhes são habilidades e mentalidades importantes para um desenvolvedor JavaScript?
